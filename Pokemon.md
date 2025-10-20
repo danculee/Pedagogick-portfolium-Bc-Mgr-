@@ -1,0 +1,1 @@
+TOHLE je skrip POKEMON
